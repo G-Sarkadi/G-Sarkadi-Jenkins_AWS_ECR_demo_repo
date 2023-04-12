@@ -18,7 +18,7 @@ def hello_from_docker():
     """
 
 # This is a commit, you know.
-# Hello, Jenkins
+# Something 
 
 if __name__ == "__main__":
     app.run('0.0.0.0')
