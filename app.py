@@ -17,7 +17,7 @@ def hello_from_docker():
         </h3>
     """
 
-# Something something
+# This is a commit, you know.
 # Hello, Jenkins
 
 if __name__ == "__main__":
