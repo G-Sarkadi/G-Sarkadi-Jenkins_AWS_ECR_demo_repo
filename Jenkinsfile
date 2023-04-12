@@ -1,4 +1,7 @@
 pipeline {
+    environment {
+        DOCKER_TLS_CERTDIR = ""
+    }
     agent any
     options {
         skipStagesAfterUnstable()
