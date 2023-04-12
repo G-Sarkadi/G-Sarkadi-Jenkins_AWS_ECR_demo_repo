@@ -17,7 +17,7 @@ def hello_from_docker():
         </h3>
     """
 
-# Testtest
+# This is just dummy data
 
 if __name__ == "__main__":
     app.run('0.0.0.0')
